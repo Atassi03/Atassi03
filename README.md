@@ -15,7 +15,7 @@ TAccuracy is aimed at users who are looking to improve their typing skills! Once
 ## The Timed mode 
 <img src=data/timed.png>
 
-## Word mode
+## The Word mode
 <img src=data/words.png>
 
 ### **How it works?**
