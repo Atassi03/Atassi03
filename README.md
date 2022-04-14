@@ -20,3 +20,8 @@ TAccuracy is aimed at users who are looking to improve their typing skills! Once
 
 ### **How it works?**
 ***
+
+From an array of the 4000 most used words of the English language, a randomly chosen number is assigned to the array which is then displayed to the screen. The process is repeated each time a word is completed. For the accuracy I compared each character of the displayed text to the relative character you typed, from that a percentage is calcuated.
+***
+
+Overall, as the first big project of mine, I am proud of it and happy to see how far I have come. The game is defintely not close to being effecient or up to par. It is basically made out of one very large 'If' statement. However, through the years I have learnt the mistakes from this project and focused on improving my Object Oriented Programming.
